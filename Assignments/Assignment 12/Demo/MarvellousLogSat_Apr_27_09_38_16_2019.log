@@ -1,0 +1,73 @@
+----------------------------------------------------------------------------------------------------
+					Marvellous Infosystems
+File created at : Sat Apr 27 09:38:16 2019 
+----------------------------------------------------------------------------------------------------
+{'name': 'System Idle Process', 'pid': 0, 'username': 'NT AUTHORITY\\SYSTEM'}
+{'name': 'System', 'pid': 4, 'username': 'NT AUTHORITY\\SYSTEM'}
+{'name': 'igfxEM.exe', 'pid': 76, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'smss.exe', 'pid': 304, 'username': None}
+{'name': 'igfxCUIService.exe', 'pid': 316, 'username': None}
+{'name': 'svchost.exe', 'pid': 412, 'username': None}
+{'name': 'csrss.exe', 'pid': 444, 'username': None}
+{'name': 'wininit.exe', 'pid': 524, 'username': None}
+{'name': 'services.exe', 'pid': 628, 'username': None}
+{'name': 'lsass.exe', 'pid': 636, 'username': None}
+{'name': 'svchost.exe', 'pid': 708, 'username': None}
+{'name': 'svchost.exe', 'pid': 740, 'username': None}
+{'name': 'svchost.exe', 'pid': 752, 'username': None}
+{'name': 'atiesrxx.exe', 'pid': 856, 'username': None}
+{'name': 'svchost.exe', 'pid': 884, 'username': None}
+{'name': 'svchost.exe', 'pid': 920, 'username': None}
+{'name': 'dasHost.exe', 'pid': 952, 'username': None}
+{'name': 'svchost.exe', 'pid': 964, 'username': None}
+{'name': 'SearchProtocolHost.exe', 'pid': 1060, 'username': None}
+{'name': 'spoolsv.exe', 'pid': 1228, 'username': None}
+{'name': 'svchost.exe', 'pid': 1264, 'username': None}
+{'name': 'armsvc.exe', 'pid': 1352, 'username': None}
+{'name': 'svchost.exe', 'pid': 1428, 'username': None}
+{'name': 'sqlservr.exe', 'pid': 1504, 'username': None}
+{'name': 'sqlceip.exe', 'pid': 1632, 'username': None}
+{'name': 'sqlwriter.exe', 'pid': 1672, 'username': None}
+{'name': 'svchost.exe', 'pid': 1688, 'username': None}
+{'name': 'SynTPEnhService.exe', 'pid': 1704, 'username': None}
+{'name': 'MsMpEng.exe', 'pid': 1736, 'username': None}
+{'name': 'igfxTray.exe', 'pid': 2004, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'python.exe', 'pid': 2080, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 2152, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'NisSrv.exe', 'pid': 2280, 'username': None}
+{'name': 'svchost.exe', 'pid': 2816, 'username': None}
+{'name': 'chrome.exe', 'pid': 2912, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 3008, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'igfxHK.exe', 'pid': 3164, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 3180, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 3464, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 3468, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 3488, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 3800, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 3828, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 4160, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'SynTPEnh.exe', 'pid': 4264, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 4412, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'SynTPHelper.exe', 'pid': 4512, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 4788, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'pythonw.exe', 'pid': 4892, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'winlogon.exe', 'pid': 4940, 'username': None}
+{'name': 'chrome.exe', 'pid': 5152, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'RdrCEF.exe', 'pid': 5312, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 5484, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'AcroRd32.exe', 'pid': 5680, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'taskhostex.exe', 'pid': 5760, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'SearchIndexer.exe', 'pid': 5772, 'username': None}
+{'name': 'explorer.exe', 'pid': 5824, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 5840, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'AcroRd32.exe', 'pid': 5860, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'cmd.exe', 'pid': 6480, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 6632, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'SearchFilterHost.exe', 'pid': 6832, 'username': None}
+{'name': 'dwm.exe', 'pid': 7184, 'username': None}
+{'name': 'conhost.exe', 'pid': 7200, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'RdrCEF.exe', 'pid': 7292, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 7324, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'chrome.exe', 'pid': 7508, 'username': 'Sanket_Dell\\Sanket'}
+{'name': 'csrss.exe', 'pid': 7572, 'username': None}
+{'name': 'chrome.exe', 'pid': 7696, 'username': 'Sanket_Dell\\Sanket'}
