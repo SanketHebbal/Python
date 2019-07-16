@@ -1,0 +1,3 @@
+studetns = [{'age': '21', 'name': 'sanket'},
+ {'age': '18', 'name': 'aniket'},
+ {'name': 'sank'}]
