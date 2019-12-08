@@ -50,7 +50,7 @@ def AddAttachments(Information):
 def SendMail(Information):
 
     username = 'sankethebbal100@gmail.com'
-    password = 'sanketmcs18'
+    password = 'password'
     to = sys.argv[3]    
 
     server = smtplib.SMTP_SSL('smtp.gmail.com',465)
